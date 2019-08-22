@@ -1,7 +1,7 @@
 # Symfony4-Crud-exemple
 1) Installation
 
-Install the dependencies and start the server.
+ Install the dependencies and start the server.
 
   $ cd sympfproject
 	
@@ -10,7 +10,7 @@ Install the dependencies and start the server.
   $ php bin/console server:run
 
 2) .env
-DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name change for Database. See Database
+ DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name change for Database. See Database
 
 
-to add new post:localhost:8000//article/new
+ to add new post:localhost:8000//article/new
